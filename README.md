@@ -4,7 +4,7 @@ Juego Demostracion
 
 ![Screenshot](shot.png "Screenshot")
 
-Demo game that I did for my MsC final project:
+Demo shoot-em-up game that I did for my MsC final project:
 "Developing Entertainment Applications for Mobile Devices".
 
 http://mario.site.ac.upc.edu/others/proyecto_ulpgc.pdf
