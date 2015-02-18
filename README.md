@@ -15,3 +15,6 @@ Requirements:
 
 - Java Runtime Environment
 - Java Wireless Toolkit
+ 
+Si te gustan mis aportaciones a github, quizás te gustará mi libro [Del bit a la Nube](http://www.xaas.guru/del-bit-a-la-nube/)
+
